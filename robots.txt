@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuthouguo.cutestmeows.com/sitemap.xml
